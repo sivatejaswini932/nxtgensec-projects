@@ -103,6 +103,22 @@ Working on a real-world client project helped me understand industry standards a
 I would like to thank NxtGenSec, mentors, and team members for providing the opportunity to work on a real-world healthcare project and gain valuable industry experience.
 
 ---
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+The landing page provides an overview of the clinic, services, and appointment options.
+
+![Home Page](home.png)
+
+### 🩺 Services Page
+Displays physiotherapy treatments and healthcare services offered by the clinic.
+
+![Services Page](service.png)
+
+### 📞 Contact Page
+Allows patients to connect with the clinic through contact information and enquiry options.
+
+![Contact Page](contact.png)
 
 ## ⚠️ Disclaimer
 
